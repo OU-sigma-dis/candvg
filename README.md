@@ -3,8 +3,8 @@ This repository contains the code for the experiments presented in the following
 
 **Recognizing Dialogue Ambiguity via Candidate Set Visual Grounding**, Shun Inadumi, Lee Sangmyeong and Koichiro Yoshino.
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)]()
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-green)](https://huggingface.co) -->
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)]() -->
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-green)](https://huggingface.co/datasets/SInadumi/CandVG)
 
 ## Setup
 

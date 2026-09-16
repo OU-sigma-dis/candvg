@@ -32,7 +32,7 @@ RefCOCOg JSONL records contain their image paths in the `image` field, so those
 paths must point to the corresponding COCO images.
 
 ### Dataset Sources
-- [CandVG](https://huggingface.co)
+- [CandVG](https://huggingface.co/datasets/SInadumi/CandVG)
 - [Flickr30k Entities](https://github.com/bryanplummer/flickr30k_entities)
 - [COCO](https://cocodataset.org/#home)
 - [RefCOCO/RefCOCO+/RefCOCOg](https://github.com/QwenLM/Qwen-VL/blob/master/eval_mm/EVALUATION.md)
