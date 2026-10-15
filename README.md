@@ -1,9 +1,9 @@
 # CandVG
 This repository contains the code for the experiments presented in the following paper:
 
-**Recognizing Dialogue Ambiguity via Candidate Set Visual Grounding**, Shun Inadumi, Lee Sangmyeong and Koichiro Yoshino.
+**Recognizing Dialogue Ambiguity via Candidate Set Visual Grounding**, Shun Inadumi, Lee Sangmyeong and Koichiro Yoshino, arXiv:2610.19723, 2026.
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)]() -->
+[![arXiv](https://img.shields.io/badge/arXiv-2610.19723-b31b1b.svg)](https://arxiv.org/abs/2610.19723)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-green)](https://huggingface.co/datasets/SInadumi/CandVG)
 
 ## Setup
@@ -62,21 +62,20 @@ uv run python scripts/misc/visualize_outputs.py \
   --exp-dir outputs/candvg_single/Qwen3.5-2B/[timestamp]
 ```
 
-<!-- 
+
 ## Citation
 Please cite our paper:
-
 ```bibtex
-@inproceedings{Inadumi-etal_2026_CandVG,
+@misc{
   author    = {Inadumi, Shun and Sangmyeong, Lee and Yoshino, Koichiro},
   title     = {Recognizing Dialogue Ambiguity via Candidate Set Visual Grounding},
-  booktitle = {TODO},
   year      = {2026},
-  pages = {TODO},
+  howpublished = {arXiv:2610.19723},
+  url = {https://arxiv.org/abs/2610.19723},
 }
 ```
 
-Please also cite InViG:
+Please also cite the following paper:
 
 ```bibtex
 @inproceedings{Zhang-etal_2024_InViG,
@@ -87,9 +86,6 @@ Please also cite InViG:
     pages     = {5508--5518},
 }
 ```
-
-and Open Images:
-
 ```bibtex
 @article{Kuznetsova-etal_2020_OpenImages,
   author  = {Kuznetsova, Alina and Rom, Hassan and Alldrin, Neil and Uijlings, Jasper and Krasin, Ivan and Pont-Tuset, Jordi and Kamali, Shahab and Popov, Stefan and Malloci, Matteo and Kolesnikov, Alexander and Duerig, Tom and Ferrari, Vittorio},
